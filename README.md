@@ -3,8 +3,11 @@
 ## About the Project
 
 -I worked on this project to understand how SQL can be used to analyze real supply chain problems.
+
 -The dataset contains 5,000 shipment records with information about transport mode, weather conditions, origin and destination ports, product category, lead time, geopolitical risk, carrier reliability and shipment disruptions.
+
 -My main goal was to find out what factors were causing longer delivery times and higher disruption rates.
+
 -I used PostgreSQL and pgAdmin 4 for the SQL analysis.
 
 ## Questions I Tried to Answer
